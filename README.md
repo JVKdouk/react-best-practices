@@ -15,7 +15,7 @@ Thank you for all the stars! I will do my best to make this repo live up to its 
 ### Patterns
 
 **Flux Pattern (uni-directional)**  
-https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207  
+[https://code-cartoons.com/articles/a-cartoon-guide-to-flux/](https://code-cartoons.com/articles/a-cartoon-guide-to-flux/)
 
 ### Functional Paradigm
 
